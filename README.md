@@ -1,1 +1,1 @@
-This repository contains machine learning project I have been working on as my personal interest.
+This repository contains personal machine learning projects I have been working on.
